@@ -23,7 +23,7 @@ Documentation that can guide how to create with Github pages, please refer to [r
 - SEO (404, robots.txt, sitemap.xml)
 - Canonical Link (Open Graph, Twitter Card, Schema data)
 
-[schedule link]http://humanai-nas.quickconnect.to/oo/r/611541236819472517
+[schedule link](http://humanai-nas.quickconnect.to/oo/r/611541236819472517)
 
 ## Options
 
