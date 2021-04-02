@@ -1,16 +1,4 @@
-# jekyll-rtd-theme
-
-![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
-
-Just another documentation theme compatible with GitHub Pages
-
-## What it does?
-
-This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
-
-- [@primer/css](https://github.com/primer/css)
-- [github-pages](https://github.com/github/pages-gem) ([dependency versions](https://pages.github.com/versions/))
+# Human AI Study Room
 
 ## Quick start
 
@@ -24,7 +12,8 @@ You can [generate](https://github.com/rundocs/starter-slim/generate) with the sa
 
 Documentation that can guide how to create with Github pages, please refer to [rundocs.io](https://rundocs.io) for details
 
-## Features
+## About Seminar
+
 
 - Shortcodes (Toasts card, mermaid)
 - Pages Plugins (emoji, gist, avatar, mentions)
@@ -33,6 +22,8 @@ Documentation that can guide how to create with Github pages, please refer to [r
 - Service worker (caches)
 - SEO (404, robots.txt, sitemap.xml)
 - Canonical Link (Open Graph, Twitter Card, Schema data)
+
+[schedule link]http://humanai-nas.quickconnect.to/oo/r/611541236819472517
 
 ## Options
 
