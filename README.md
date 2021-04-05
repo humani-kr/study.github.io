@@ -1,6 +1,6 @@
 # Human AI Study Room
 
-## Quick start
+## 일정
 
 ```yml
 remote_theme: rundocs/jekyll-rtd-theme
