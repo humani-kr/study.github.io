@@ -1,6 +1,6 @@
 # Human AI Study Room
 
-## 일정
+## Introduction
 
 ```yml
 remote_theme: rundocs/jekyll-rtd-theme
@@ -15,10 +15,10 @@ Documentation that can guide how to create with Github pages, please refer to [r
 ## About Seminar
 
 
-- Shortcodes (Toasts card, mermaid)
-- Pages Plugins (emoji, gist, avatar, mentions)
-- Auto generate sidebar
-- [Attribute List Definitions](https://kramdown.gettalong.org/syntax.html#attribute-list-definitions) (Primer/css utilities, Font Awesome 4)
+- CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features
+- Deep-High Resolution Representation Learning for Human Pose Estimation
+- 2s-AGCN (Two-Stream Adaptive Graph Convoluional Network)
+- c++ 20 Overview 
 - Service worker (caches)
 - SEO (404, robots.txt, sitemap.xml)
 - Canonical Link (Open Graph, Twitter Card, Schema data)
@@ -29,7 +29,7 @@ Documentation that can guide how to create with Github pages, please refer to [r
 
 | name          | default value        | description       |
 | ------------- | -------------------- | ----------------- |
-| `title`       | repo name            |                   |
+| `CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features`       | repo name            |                   |
 | `description` | repo description     |                   |
 | `url`         | user domain or cname |                   |
 | `baseurl`     | repo name            |                   |
